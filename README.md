@@ -65,7 +65,7 @@
 ---
 ---
 
-<a href="www.google.com" Style="color:red;">Enlace</a>
+  <a href="http://example.com/" style="color:#FF0000;">Red Link</a>
 
 
  
