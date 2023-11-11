@@ -37,3 +37,24 @@
 # Encabezado 1
 # Encabezado 2
 ### Encabezado 3
+
+<!--Negritas-->
+**Negritas**
+<!--Cursivas-->
+*Cursivas*
+<!--Lista desordenada-->
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+  1. Elemento 1
+  2. Elemento 2
+  3. Elemento 3
+ <!--enlaces-->
+[Redacción Web - SEO - Trecebits](https://www.trecebits.com/author/joaquinromero/)
+
+ <!--Imágenes-->
+ ![]()
+
+
+
