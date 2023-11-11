@@ -31,3 +31,9 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 [![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--ENCABEZADOS--!>
+
+#Encabezado 1
+#Encabezado 2
+###Encabezado 3
