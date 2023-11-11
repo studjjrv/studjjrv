@@ -32,7 +32,7 @@
 
 [![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--ENCABEZADOS--!>
+<!--ENCABEZADOS-->
 
 # Encabezado 1
 # Encabezado 2
