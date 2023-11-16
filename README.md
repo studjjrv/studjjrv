@@ -71,7 +71,6 @@
 
 <a href="https://twitter.com/JJoaquinRomero" target="blank">
 <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
-</p>
 
 <a href="https://www.instagram.com/j_joaquin_romero_v/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
