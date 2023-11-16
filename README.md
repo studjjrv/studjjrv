@@ -91,7 +91,7 @@
 
 ---
 
-Creditos: [Joaquín](https://github.com/studjjrv)
+Creditos: [Joaquín](https://github.com/studjjrv) <img href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 Última edición: 16/11/2023
 
 
