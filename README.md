@@ -66,17 +66,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame
 ---
 <p align="left">
- <a href="https://www.linkedin.com/in/ing-copy-jose-romero//" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
- <a href="https://twitter.com/JJoaquinRomero" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-" alt="elhanif93" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/j_joaquin_romero_v/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-" alt="elhani__293" height="30" width="40" /></a>
-   <a href="mailto:jjoaquin.romero@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-" alt="elhani" height="40" width="50" /></a>
-<a href="wa.me/584142276464" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-" alt="elhani" height="40" width="50" /></a>
-
+<a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
 </p>
 
 ---
