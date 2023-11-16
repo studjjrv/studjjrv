@@ -1,6 +1,8 @@
 # Presentación 🧔
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9691118A&random=false&width=435&lines=Hola%2C+%C2%BFC%C3%B3mo+est%C3%A1s%3F+;Me+llamo%3A+Jos%C3%A9+Joaqu%C3%ADn+Romero+Vargas;pero+puedes+llamarme+Joaqu%C3%ADn....;Soy+Ingeniero+en+sistemas;programador+full+stack;+y+redactor+web+SEO" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Gracias+por+visitar+mi+repositorio;Aqu%C3%AD+encontrar%C3%A1s+mis+proyectos;adem%C3%A1s%2C+de+informaci%C3%B3n+personal;Bienvenido+y+espero+lo+disfrutes!!!" alt="Typing SVG" /></a>
 ---
 # Habilidades y destrezas en programación web ⚡ **Tecnologías aprendidas**
 
