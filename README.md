@@ -102,7 +102,7 @@
 
 ---
 
-# *Estadísticas* 
+# <img src="https://media.giphy.com/media/WKVayVkGMJkFPQxm1W/giphy.gif" height="60px"> *Estadísticas* 
 
 [![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
