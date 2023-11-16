@@ -26,7 +26,7 @@
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1cmR4cGFveXVpMW9pb3g0bm9mc3gxYWlmZDJmajRodHNzM2k0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" height="60px" > *Herramientas* 🧑‍💻
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1cmR4cGFveXVpMW9pb3g0bm9mc3gxYWlmZDJmajRodHNzM2k0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" height="60px" > *Herramientas* 
 
 1. Programación
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -51,7 +51,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6OGpzcmdhNHM3bG82OW5hYjU5YWd4b2JsMjlwMDVkZWdmOGx1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDCJJwieUnivMrjHK/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario ©️
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6OGpzcmdhNHM3bG82OW5hYjU5YWd4b2JsMjlwMDVkZWdmOGx1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDCJJwieUnivMrjHK/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario
 
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
@@ -94,9 +94,10 @@
 
 ---
 
-# **Otras Habilidades**
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw5MXJ0ancyMWdmZjZuOWxycmY4N2FuYmh3dm96eHcydTRwbDkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GP5dIhi0R5B449jIiq/giphy.gif" height="30px"> **Otras Habilidades**
 
 <p>Especialista en el uso de Zoom Cloud Meeting, para gestionar eventos virtuales como reuinones, videoconferencias, actividades recreativas, entre otras.</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVmMXg3MjNoMGxhNmNoMDQyMjd2OWF5ejI3ajZjNDczZDJkeDg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6ze2QWhm8J94Y7arh/giphy.gif">
 
 <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="hani-fares-072bb5a4/"/>
 
