@@ -51,4 +51,11 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
+ <h3 align="center">Contador de visitas</h3>
+<a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
+  
+ ![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)  
+  
+</a>
+
 
