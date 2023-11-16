@@ -48,8 +48,12 @@
 ### *Herramientas* 📝
 
 
+---
+
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
+---
 
  <h3 align="center">Contador de visitas</h3>
 <a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
@@ -57,5 +61,21 @@
  ![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)  
   
 </a>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame
+---
+<p align="left">
+ <a href="https://www.linkedin.com/in/ing-copy-jose-romero//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
+ <a href="https://twitter.com/JJoaquinRomero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/j_joaquin_romero_v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
+   <a href="mailto:jjoaquin.romero@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" alt="elhani" height="40" width="50" /></a>
+</p>
+
+---
+
+Creditos: [Joaquín](https://github.com/studjjrv)
+
+Última edición: 16/11/2023
 
 
