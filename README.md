@@ -63,7 +63,8 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Contactame
+## <img src="https://giphy.com/stickers/Marininmuebles-inmobiliaria-marca-marin-inmuebles-IxsZ36pjYwCPY3sdeZ" width="30px"> Contactame
+
 ---
 <p align="left">
 <a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="blank">
