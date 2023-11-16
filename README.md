@@ -86,8 +86,7 @@
 
 # Otras Habilidades
 
-<p> Host tecnológico, especialista en</p> <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
-" alt="hani-fares-072bb5a4/"/>
+<p> Host tecnológico, especialista en</p> <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="hani-fares-072bb5a4/"/>
 
 ---
 
