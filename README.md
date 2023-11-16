@@ -26,7 +26,7 @@
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-# *Herramientas* 🧑‍💻
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRzbzBoMXAyd20zOGhndmM4YTI3b3B1d3Nvd3ByY3phOG1ucTBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OOrloZjiqpyHJg8AmC/giphy.gif" height="60px" > *Herramientas* 🧑‍💻
 
 1. Programación
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -55,7 +55,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYybW5sY2h1cWc1a2x3OTIyd2s3d2V3bmV3MXczZmNwNHZwNWZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JBVSHiQmjaJYqFPmht/giphy.gif" height="30px" width="60px"> Redactor web - SEO - Periodístico - Publicitario ©️
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYybW5sY2h1cWc1a2x3OTIyd2s3d2V3bmV3MXczZmNwNHZwNWZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JBVSHiQmjaJYqFPmht/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario ©️
 
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
@@ -83,6 +83,8 @@
 
 ---
 <p align="left">
+Te dejo mis redes sociales para facilitar nuestra comunicación: 
+ 
 <a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 
@@ -103,17 +105,20 @@
 
 # Otras Habilidades
 
+<p>Especialista en el uso de Zoom Cloud Meeting, para gestionar eventos virtuales como reuinones, videoconferencias, actividades recreativas, entre otras.</p>
+
 <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="hani-fares-072bb5a4/"/>
 
 ---
 
 # 💵💵 **¿Quieres colaborar conmigo?** 💵💵💵
+<p>Si quieres colaborar con mi desarrollo profesional, puedes hacerlo a través de micuenta PayPal</p>
 <a href="https://paypal.me/JoseRomeroVargas?country.x=VE&locale.x=es_XC" target="blank">
 <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 
 ---
 
-# Creditos
+# Créditos
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 Última actualización: 16/11/2023 ©
