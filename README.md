@@ -1,6 +1,6 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mi**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9691118A&random=false&width=435&lines=Hola%2C+%C2%BFC%C3%B3mo+est%C3%A1s%3F+...;Me+llamo%3A+Jos%C3%A9+Joaqu%C3%ADn+Romero+Vargas,;pero+puedes+llamarme+Joaqu%C3%ADn....;Soy+Ingeniero+en+sistemas,;desarrollador+full+stack;+y+redactor+web+SEO;Gracias+por+visitar+mi+repositorio;Aqu%C3%AD+encontrar%C3%A1s+mis+proyectos;adem%C3%A1s%2C+de+informaci%C3%B3n+personal;Bienvenido+y+espero+lo+disfrutes!!!" alt="Typing SVG" /></a>
+<a style="text-align: center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9691118A&random=false&width=435&lines=Hola%2C+%C2%BFC%C3%B3mo+est%C3%A1s%3F+...;Me+llamo%3A+Jos%C3%A9+Joaqu%C3%ADn+Romero+Vargas,;pero+puedes+llamarme+Joaqu%C3%ADn....;Soy+Ingeniero+en+sistemas,;desarrollador+full+stack;+y+redactor+web+SEO;Gracias+por+visitar+mi+repositorio;Aqu%C3%AD+encontrar%C3%A1s+mis+proyectos;adem%C3%A1s%2C+de+informaci%C3%B3n+personal;Bienvenido+y+espero+lo+disfrutes!!!" alt="Typing SVG" /></a>
 
 ---
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> **Habilidades**</b>
