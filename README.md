@@ -68,7 +68,7 @@
 
 <p align="left"> Te dejo mis redes sociales para facilitar nuestra comunicación: </p>
  
-<a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="blank">
+<a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 
 <a href="https://twitter.com/JJoaquinRomero" target="blank">
