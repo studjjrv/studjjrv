@@ -62,17 +62,7 @@
 
 ---
 
- <h3 align="center">Contador de visitas</h3>
-<a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
-  
- ![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)  
-  
-</a>
-
-
-# <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="60px"> **Contactame**
-
----
+# <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="60px"> **Contáctame**
 
 <p align="left"> Te dejo mis redes sociales para facilitar nuestra comunicación: </p>
  
@@ -90,7 +80,6 @@
 
 <a href="wa.me/584142276464" target="blank">
 <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
-
 
 ---
 
@@ -120,3 +109,12 @@
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 Última actualización: 16/11/2023 ©
+
+---
+
+# <h3 align="center">**Contador de visitas**</h3>
+<a align="center" href="https://profile-counter.glitch.me/{kajalkumari23}/count.svg">
+  
+ ![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)  
+  
+</a>
