@@ -102,6 +102,8 @@
 
 # <img src="https://media.giphy.com/media/33T0SdIyoupp2syFP5/giphy.gif" height="60px">  **¿Quieres colaborar conmigo?**
 <p>Si quieres colaborar con mi desarrollo profesional, puedes hacerlo a través de mi cuenta PayPal</p>
+
+![https://paypal.me/JoseRomeroVargas?country.x=VE&locale.x=es_XC](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 <a href="https://paypal.me/JoseRomeroVargas?country.x=VE&locale.x=es_XC" target="blank">
 <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 
