@@ -26,7 +26,7 @@
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1cmR4cGFveXVpMW9pb3g0bm9mc3gxYWlmZDJmajRodHNzM2k0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" height="60px" > *Herramientas* 
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1cmR4cGFveXVpMW9pb3g0bm9mc3gxYWlmZDJmajRodHNzM2k0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" width="60px" > *Herramientas* 
 
 1. Programación
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
