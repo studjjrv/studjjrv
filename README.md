@@ -94,7 +94,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw5MXJ0ancyMWdmZjZuOWxycmY4N2FuYmh3dm96eHcydTRwbDkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GP5dIhi0R5B449jIiq/giphy.gif" height="60px"> **Otras Habilidades**
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw5MXJ0ancyMWdmZjZuOWxycmY4N2FuYmh3dm96eHcydTRwbDkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GP5dIhi0R5B449jIiq/giphy.gif" height="100px"> **Otras Habilidades**
 
 <p>Especialista en el uso de Zoom Cloud Meeting, para gestionar eventos virtuales como reuinones, videoconferencias, actividades recreativas, entre otras.</p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVmMXg3MjNoMGxhNmNoMDQyMjd2OWF5ejI3ajZjNDczZDJkeDg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6ze2QWhm8J94Y7arh/giphy.gif">
@@ -116,7 +116,7 @@
 
 ---
 
-# Créditos
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjEzYTc1ZzlxNmh0bXplMGJraWpmZ2g0MjFmcDFrdXFmamNpMTE3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aXhkTCLfDnbZB16rZy/giphy.gif" height="60px"> **Créditos**
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 
 Última actualización: 16/11/2023 ©
