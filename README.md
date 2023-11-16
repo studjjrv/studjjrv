@@ -49,10 +49,6 @@
 5. Base de datos
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# *Estadísticas* 
-
-[![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYybW5sY2h1cWc1a2x3OTIyd2s3d2V3bmV3MXczZmNwNHZwNWZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JBVSHiQmjaJYqFPmht/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario ©️
@@ -63,11 +59,6 @@
 
 ### *Herramientas* 📝
 - ![Googla Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-
----
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
 ---
 
@@ -108,6 +99,12 @@
 <p>Especialista en el uso de Zoom Cloud Meeting, para gestionar eventos virtuales como reuinones, videoconferencias, actividades recreativas, entre otras.</p>
 
 <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="hani-fares-072bb5a4/"/>
+
+---
+
+# *Estadísticas* 
+
+[![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
