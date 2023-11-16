@@ -17,6 +17,8 @@
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### *Librerías y Framework* 🦾
 
@@ -26,12 +28,29 @@
 
 ### *Herramientas* 🧑‍💻
 
-- <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+## Programación
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 - ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 - ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+- 
 - ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+## Colaborativas
+
+- ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+- ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+## CMS
+- ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## Diseño
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white
+
+## Base de datos
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### *Estadísticas* 📊
 
@@ -39,14 +58,14 @@
 
 ---
 
-# Redactor web - SEO - Periodístico - Publicitario ©️
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl0dzgxOGc2bXg2N3A5eXZxdTd0YXFhNDQ2aTIyZjlmdGt6OTcxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" heigth="30px"> Redactor web - SEO - Periodístico - Publicitario ©️
 
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
 - [Redacción web - TodoAndroid](https://www.todoandroid360.com/author/joaquin-romero/)
 
 ### *Herramientas* 📝
-
+- ![Googla Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
 ---
 
@@ -91,8 +110,11 @@
 
 ---
 
-Creditos: [Joaquín](https://github.com/studjjrv)
-<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="hani-fares-072bb5a4/"/>
+Creditos: [Joaquín]<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 Última edición: 16/11/2023
+
+¿Quieres colaborar conmigo?
+- ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+
 
 
