@@ -1,9 +1,9 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mi**
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mi**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9691118A&random=false&width=435&lines=Hola%2C+%C2%BFC%C3%B3mo+est%C3%A1s%3F+;Me+llamo%3A+Jos%C3%A9+Joaqu%C3%ADn+Romero+Vargas,;pero+puedes+llamarme+Joaqu%C3%ADn....;Soy+Ingeniero+en+sistemas,;desarrollador+full+stack;+y+redactor+web+SEO;Gracias+por+visitar+mi+repositorio;Aqu%C3%AD+encontrar%C3%A1s+mis+proyectos;adem%C3%A1s%2C+de+informaci%C3%B3n+personal;Bienvenido+y+espero+lo+disfrutes!!!" alt="Typing SVG" /></a>
 
 ---
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> *Habilidades*</b>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> **Habilidades**</b>
 
 ### *Lenguajes de programación* 👨‍💻
 
@@ -26,7 +26,7 @@
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRzbzBoMXAyd20zOGhndmM4YTI3b3B1d3Nvd3ByY3phOG1ucTBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OOrloZjiqpyHJg8AmC/giphy.gif" height="60px" > *Herramientas* 🧑‍💻
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc1cmR4cGFveXVpMW9pb3g0bm9mc3gxYWlmZDJmajRodHNzM2k0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZDTbix65Me1YDNLDF3/giphy.gif" height="60px" > *Herramientas* 🧑‍💻
 
 1. Programación
 - ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -51,7 +51,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYybW5sY2h1cWc1a2x3OTIyd2s3d2V3bmV3MXczZmNwNHZwNWZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JBVSHiQmjaJYqFPmht/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario ©️
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6OGpzcmdhNHM3bG82OW5hYjU5YWd4b2JsMjlwMDVkZWdmOGx1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDCJJwieUnivMrjHK/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario ©️
 
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
@@ -70,7 +70,7 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="30px"> Contactame
+# <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="30px"> **Contactame**
 
 ---
 
@@ -94,7 +94,7 @@
 
 ---
 
-# Otras Habilidades
+# **Otras Habilidades**
 
 <p>Especialista en el uso de Zoom Cloud Meeting, para gestionar eventos virtuales como reuinones, videoconferencias, actividades recreativas, entre otras.</p>
 
