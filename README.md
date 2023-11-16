@@ -81,8 +81,11 @@
 <a href="wa.me/584142276464" target="blank">
 <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 </p>
+
 ---
+
 # Otras Habilidades
+
 [Host tecnológico, especialista en](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 ---
