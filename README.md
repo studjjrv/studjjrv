@@ -38,6 +38,8 @@
 
 [![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
 ---
 
 # Redactor web - SEO - Periodístico - Publicitario ©️
