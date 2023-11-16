@@ -51,7 +51,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6OGpzcmdhNHM3bG82OW5hYjU5YWd4b2JsMjlwMDVkZWdmOGx1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDCJJwieUnivMrjHK/giphy.gif" height="60px" width="120px"> Redactor web - SEO - Periodístico - Publicitario
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp6OGpzcmdhNHM3bG82OW5hYjU5YWd4b2JsMjlwMDVkZWdmOGx1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEDCJJwieUnivMrjHK/giphy.gif" height="80px" width="140px"> Redactor web - SEO - Periodístico - Publicitario
 
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
@@ -70,7 +70,7 @@
 </a>
 
 
-# <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="30px"> **Contactame**
+# <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="60px"> **Contactame**
 
 ---
 
@@ -94,7 +94,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw5MXJ0ancyMWdmZjZuOWxycmY4N2FuYmh3dm96eHcydTRwbDkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GP5dIhi0R5B449jIiq/giphy.gif" height="30px"> **Otras Habilidades**
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWw5MXJ0ancyMWdmZjZuOWxycmY4N2FuYmh3dm96eHcydTRwbDkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GP5dIhi0R5B449jIiq/giphy.gif" height="60px"> **Otras Habilidades**
 
 <p>Especialista en el uso de Zoom Cloud Meeting, para gestionar eventos virtuales como reuinones, videoconferencias, actividades recreativas, entre otras.</p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVmMXg3MjNoMGxhNmNoMDQyMjd2OWF5ejI3ajZjNDczZDJkeDg5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6ze2QWhm8J94Y7arh/giphy.gif">
@@ -109,7 +109,7 @@
 
 ---
 
-# <img src="https://media.giphy.com/media/33T0SdIyoupp2syFP5/giphy.gif" height="30px">  **¿Quieres colaborar conmigo?**
+# <img src="https://media.giphy.com/media/33T0SdIyoupp2syFP5/giphy.gif" height="60px">  **¿Quieres colaborar conmigo?**
 <p>Si quieres colaborar con mi desarrollo profesional, puedes hacerlo a través de micuenta PayPal</p>
 <a href="https://paypal.me/JoseRomeroVargas?country.x=VE&locale.x=es_XC" target="blank">
 <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
