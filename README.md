@@ -36,7 +36,7 @@
 
 ### *Estadísticas* 📊
 
-[![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+[![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -45,3 +45,7 @@
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
 - [Redacción web - TodoAndroid](https://www.todoandroid360.com/author/joaquin-romero/)
+
+### *Herramientas* 📝
+
+
