@@ -82,8 +82,8 @@
 ## <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="30px"> Contactame
 
 ---
-<p align="left">
-Te dejo mis redes sociales para facilitar nuestra comunicación: 
+
+<p align="left"> Te dejo mis redes sociales para facilitar nuestra comunicación: </p>
  
 <a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
@@ -99,7 +99,7 @@ Te dejo mis redes sociales para facilitar nuestra comunicación:
 
 <a href="wa.me/584142276464" target="blank">
 <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
-</p>
+
 
 ---
 
