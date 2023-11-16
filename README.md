@@ -49,13 +49,13 @@
 5. Base de datos
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### *Estadísticas* 📊
+# *Estadísticas* 
 
 [![Joaquin GitHub stats](https://github-readme-stats.vercel.app/api?username=studjjrv&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl0dzgxOGc2bXg2N3A5eXZxdTd0YXFhNDQ2aTIyZjlmdGt6OTcxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" heigth="30px"> Redactor web - SEO - Periodístico - Publicitario ©️
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHYybW5sY2h1cWc1a2x3OTIyd2s3d2V3bmV3MXczZmNwNHZwNWZodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JBVSHiQmjaJYqFPmht/giphy.gif" height="30px" width="60px"> Redactor web - SEO - Periodístico - Publicitario ©️
 
 - [Redacción periodística - Trecebits](https://www.trecebits.com/author/joaquinromero/)
 - [Redacción web - GrupoDigital](https://grupodigital360.com/author/joaquin-romero/)
@@ -103,13 +103,7 @@
 
 # Otras Habilidades
 
-<p> Host tecnológico, especialista en</p> <img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="hani-fares-072bb5a4/"/>
-
----
-
-Creditos: <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-
-Última edición: 16/11/2023 ©
+<img align="center" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="hani-fares-072bb5a4/"/>
 
 ---
 
@@ -117,4 +111,9 @@ Creditos: <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/
 <a href="https://paypal.me/JoseRomeroVargas?country.x=VE&locale.x=es_XC" target="blank">
 <img align="center" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 
+---
 
+# Creditos
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+
+Última actualización: 16/11/2023 ©
