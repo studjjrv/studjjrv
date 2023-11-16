@@ -67,7 +67,7 @@
 ---
 <p align="left">
 <a href="https://www.linkedin.com/in/ing-copy-jose-romero/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hani-fares-072bb5a4/" height="30" width="40" /></a>
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hani-fares-072bb5a4/"/></a>
 </p>
 
 ---
