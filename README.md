@@ -63,7 +63,7 @@
 </a>
 
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemMybjg1c2U4NDU3am5sOWdmdGVodmFteWszd2w0cHczYXdiMmIwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IxsZ36pjYwCPY3sdeZ/giphy.gif"> Contactame
+## <img src="https://media.giphy.com/media/RepZNFg82lSV5H5Bbi/giphy.gif" height="30px"> Contactame
 
 ---
 <p align="left">
@@ -91,7 +91,8 @@
 
 ---
 
-Creditos: [Joaquín](https://github.com/studjjrv) <img href="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+Creditos: [Joaquín](https://github.com/studjjrv)
+<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="hani-fares-072bb5a4/"/>
 Última edición: 16/11/2023
 
 
